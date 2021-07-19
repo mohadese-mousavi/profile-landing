@@ -208,7 +208,7 @@ header .logo-box>picture {
     display: flex;
     justify-content: center;
     padding: 0 2rem;
-    justify-content: end;
+    align-items: center;
 }
 
 .headlines {
@@ -299,7 +299,7 @@ a.btn-more i {
     display: flex;
     justify-content: center;
     padding: 0 2rem;
-    justify-content: end;
+    align-items: center;
 }
 
 .personal-img {
